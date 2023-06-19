@@ -1,0 +1,791 @@
+[
+  {
+    "id": 1,
+    "name": "pen drive 8 gb",
+    "serviceType": "mercadoria",
+    "price": "35,00",
+    "imageURL": "https://a-static.mlcdn.com.br/800x560/pen-drive-32gb-metal-para-personalizar-walunt/fotolyshop/2d124b0c3eaa11edbc294201ac185019/2d16b692577d88c838ff85c1ccfd6c69.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "pen drive 16 gb",
+    "serviceType": "mercadoria",
+    "brand": "sandisk",
+    "price": "50,00",
+    "imageURL": "https://m.media-amazon.com/images/I/71msNy1bW7L._AC_SY879_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "pen drive 32 gb",
+    "serviceType": "mercadoria",
+    "brand": "sandisk",
+    "price": "60,00",
+    "imageURL": "https://http2.mlstatic.com/D_NQ_NP_642883-MLB69966585329_062023-O.webp"
+  },
+  {
+    "id": 4,
+    "name": "pen drive 32 gb",
+    "serviceType": "mercadoria",
+    "brand": "kingston",
+    "price": "70,00",
+    "imageURL": "https://m.media-amazon.com/images/I/71fDuz4OWNL._AC_SX679_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "pen drive 64 gb",
+    "serviceType": "mercadoria",
+    "brand": "kingston",
+    "price": "90,00",
+    "imageURL": "https://http2.mlstatic.com/D_NQ_NP_889923-MLB54226133955_032023-O.webp"
+  },
+  {
+    "id": 6,
+    "name": "pen drive 128 gb",
+    "serviceType": "mercadoria",
+    "brand": "kingston",
+    "price": "160,00",
+    "imageURL": "https://images.kabum.com.br/produtos/fotos/154113/pendrive-datatraveler-exodia-128gb-kingston-com-conexao-usb-3-2-preto-amarelo-dtx-128gb_1619115566_gg.jpg"
+  },
+  {
+    "id": 7,
+    "name": "micro sd 8 gb + adaptador usb",
+    "serviceType": "mercadoria",
+    "brand": "multilaser",
+    "price": "50,00",
+    "imageURL": "https://down-br.img.susercontent.com/file/sg-11134201-23030-eanhbwv6vlov33"
+  },
+  {
+    "id": 8,
+    "name": "micro sd 16 gb + adaptador",
+    "description": "velocidade até 80mb/s",
+    "serviceType": "mercadoria",
+    "brand": "sandisk",
+    "price": "60,00",
+    "imageURL": "https://m.media-amazon.com/images/I/910xjdpGpUL._AC_SY741_.jpg"
+  },
+  {
+    "id": 9,
+    "name": "micro sd 64 gb + adaptador",
+    "description": "velocidade até 100mb/s",
+    "serviceType": "mercadoria",
+    "brand": "sandisk",
+    "price": "80,00"
+  },
+  {
+    "id": 10,
+    "name": "micro sd 128 gb + adaptador",
+    "description": "velocidade até 100mb/s",
+    "serviceType": "mercadoria",
+    "brand": "sandisk",
+    "price": "130,00"
+  },
+  {
+    "id": 11,
+    "name": "micro sd 16 gb + adaptador usb",
+    "serviceType": "mercadoria",
+    "brand": "sandisk",
+    "price": "55,00",
+    "cardPrice": "60,00"
+  },
+  {
+    "id": 12,
+    "name": "kit adaptador para chip com chave removedora de bandeja",
+    "serviceType": "mercadoria",
+    "price": "10,00"
+  },
+  {
+    "id": 13,
+    "name": "Receptor Bluetooth usb + cabo p2 3.5mm",
+    "serviceType": "mercadoria",
+    "price": "40,00"
+  },
+  {
+    "id": 14,
+    "name": "Receptor Bluetooth usb",
+    "serviceType": "mercadoria",
+    "price": "40,00"
+  },
+  {
+    "id": 15,
+    "name": "Placa Adaptador De Som Usb 7.1 Canais 3d Adaptador Audio Pc",
+    "serviceType": "mercadoria",
+    "price": "45,00"
+  },
+  {
+    "id": 16,
+    "name": "chip",
+    "serviceType": "mercadoria",
+    "brand": "claro",
+    "price": "20,00"
+  },
+  {
+    "id": 17,
+    "name": "chip",
+    "serviceType": "mercadoria",
+    "brand": "tim",
+    "price": "20,00"
+  },
+  {
+    "id": 18,
+    "name": "chip",
+    "serviceType": "mercadoria",
+    "brand": "vivo",
+    "price": "20,00"
+  },
+  {
+    "id": 19,
+    "name": "Adaptador Receptor Bluetooth Dongle Usb",
+    "serviceType": "mercadoria",
+    "price": "20,00"
+  },
+  {
+    "id": 20,
+    "name": "Adaptador de rede USB RJ45",
+    "serviceType": "mercadoria",
+    "price": "40,00"
+  },
+  {
+    "id": 21,
+    "name": "Antena Receptor USB Wi-fi Wireless",
+    "serviceType": "mercadoria",
+    "price": "50,00"
+  },
+  {
+    "id": 22,
+    "name": "Adaptador Wireless Usb Wi-fi",
+    "serviceType": "mercadoria",
+    "price": "40,00"
+  },
+  {
+    "id": 23,
+    "name": "Adaptador bluetooth 5.0",
+    "serviceType": "mercadoria",
+    "price": "29,90"
+  },
+  {
+    "id": 24,
+    "name": "Adaptador Usb Bluetooth 5.0 CSR",
+    "serviceType": "mercadoria",
+    "price": "50,00"
+  },
+  {
+    "id": 25,
+    "name": "Fonte Carregador 2 USB",
+    "description": "2.4A / 12W",
+    "serviceType": "mercadoria",
+    "brand": "kaidi",
+    "price": "40,00"
+  },
+  {
+    "id": 26,
+    "name": "Fonte Carregador Turbo 1 USB",
+    "description": "2.1A",
+    "serviceType": "mercadoria",
+    "brand": "hmaston",
+    "price": "20,00"
+  },
+  {
+    "id": 27,
+    "name": "Fonte Carregador 2 USB",
+    "description": "4.1A / 20w",
+    "serviceType": "mercadoria",
+    "brand": "hmaston",
+    "price": "30,00"
+  },
+  {
+    "id": 28,
+    "name": "Fonte Carregador Turbo 1 USB",
+    "description": "2.1A / 30w",
+    "serviceType": "mercadoria",
+    "brand": "lehmox",
+    "price": "30,00"
+  },
+  {
+    "id": 29,
+    "name": "Carregador Veicular com 2 Entradas USB + Cabo V8",
+    "description": "3.4A / 17W",
+    "serviceType": "mercadoria",
+    "brand": "kaidi",
+    "price": "40,00"
+  },
+  {
+    "id": 30,
+    "name": "Carregador Veicular com 2 Entradas USB",
+    "description": "3.4A / 17W",
+    "serviceType": "mercadoria",
+    "brand": "hmaston",
+    "price": "35,00"
+  },
+  {
+    "id": 31,
+    "name": "Carregador Veicular com 2 Entradas USB + Cabo iPhone",
+    "description": "3.4A / 17W",
+    "serviceType": "mercadoria",
+    "brand": "kaidi",
+    "price": "40,00"
+  },
+  {
+    "id": 32,
+    "name": "Carregador USB-C",
+    "description": "20W",
+    "serviceType": "mercadoria",
+    "brand": "apple",
+    "price": "100,00"
+  },
+  {
+    "id": 33,
+    "name": "Carregador Usb",
+    "description": "5W",
+    "serviceType": "mercadoria",
+    "brand": "apple",
+    "price": "40,00"
+  },
+  {
+    "id": 34,
+    "name": "Carregador Veicular com 1 Entrada USB e 1 serviceType c",
+    "description": "usb - 1.5A / c - 1.67A",
+    "serviceType": "mercadoria",
+    "brand": "peining",
+    "price": "39,90"
+  },
+  {
+    "id": 35,
+    "name": "Carregador USB-C",
+    "description": "20W",
+    "serviceType": "mercadoria",
+    "brand": "apple",
+    "price": "100,00"
+  },
+  {
+    "id": 36,
+    "name": "Monitor",
+    "description": "tela de 21 polegadas",
+    "serviceType": "mercadoria",
+    "brand": "LG",
+    "price": "300,00"
+  },
+  {
+    "id": 37,
+    "name": "Recuperar senha Gov",
+    "serviceType": "serviço",
+    "price": "20,00"
+  },
+  {
+    "id": 38,
+    "name": "Consulta SERASA",
+    "description": "SPC, SERASA, SCORE, CARTÓRIO",
+    "serviceType": "serviço",
+    "price": "50,00"
+  },
+  {
+    "id": 39,
+    "name": "TV BOX",
+    "description": "plano = 35,00 / mês",
+    "serviceType": "mercadoria",
+    "price": "250,00",
+    "cardPrice": "280,00 3x"
+  },
+  {
+    "id": 40,
+    "name": "Fonte Carregador de Tomada",
+    "description": "9v/1A Pino P4",
+    "serviceType": "mercadoria",
+    "brand": "FLEX",
+    "price": "30,00"
+  },
+  {
+    "id": 41,
+    "name": "Fonte Adaptador AC Universal",
+    "description": "1.5V, 3V, 4.5V, 6V, 7.5V, 9V, 12V",
+    "serviceType": "mercadoria",
+    "brand": "FLEX",
+    "price": "60,00"
+  },
+  {
+    "id": 42,
+    "name": "Lanterna LED Recarregável",
+    "description": "Iluminação de 100-200 metros",
+    "serviceType": "mercadoria",
+    "brand": "LUATEK",
+    "price": "45,00"
+  },
+  {
+    "id": 43,
+    "name": "Lanterna Alto Brilho Recarregável",
+    "description": "4 LED",
+    "serviceType": "mercadoria",
+    "brand": "B-MAX",
+    "price": "65,00"
+  },
+  {
+    "id": 44,
+    "name": "Case para HD de 2.5 polegadas",
+    "description": "USB 3.0",
+    "serviceType": "mercadoria",
+    "brand": "ATA",
+    "price": "90,00"
+  },
+  {
+    "id": 45,
+    "name": "HUB USB 4 portas 3.0",
+    "serviceType": "mercadoria",
+    "brand": "exbom",
+    "price": "50,00"
+  },
+  {
+    "id": 46,
+    "name": "HUB USB 4 portas 2.0",
+    "serviceType": "mercadoria",
+    "brand": "LEHMOX",
+    "price": "40,00"
+  },
+  {
+    "id": 47,
+    "name": "Cordinha para celular",
+    "serviceType": "mercadoria",
+    "price": "15,00"
+  },
+  {
+    "id": 48,
+    "name": "Fechar MEI",
+    "serviceType": "serviço",
+    "price": "20,00"
+  },
+  {
+    "id": 49,
+    "name": "Abrir MEI",
+    "serviceType": "serviço",
+    "price": "70,00"
+  },
+  {
+    "id": 50,
+    "name": "Cabo Adaptador de Áudio P2 x 3RCA 1.8m",
+    "serviceType": "mercadoria",
+    "brand": "VERDE",
+    "price": "25,00"
+  },
+  {
+    "id": 51,
+    "name": "Cabo Adaptador P2 x 3RCA 1.5m",
+    "serviceType": "mercadoria",
+    "price": "25,00"
+  },
+  {
+    "id": 52,
+    "name": "Cabo Adaptador P2 x 2RCA 1.5m",
+    "serviceType": "mercadoria",
+    "brand": "B-MAX",
+    "price": "20,00"
+  },
+  {
+    "id": 53,
+    "name": "Cabo usb 2.0 para impressora 1.5m",
+    "serviceType": "mercadoria",
+    "brand": "B-MAX",
+    "price": "20,00"
+  },
+  {
+    "id": 54,
+    "name": "Cabo Microfone 5m",
+    "serviceType": "mercadoria",
+    "brand": "MAXMIDIA",
+    "price": ""
+  },
+  {
+    "id": 55,
+    "name": "Cabo P2 x P10 3m",
+    "serviceType": "mercadoria",
+    "brand": "X-CELL",
+    "price": ""
+  },
+  {
+    "id": 56,
+    "name": "Cabo de Força Bipolar LEY-16",
+    "serviceType": "mercadoria",
+    "brand": "LEHMOX",
+    "price": "20,00"
+  },
+  {
+    "id": 57,
+    "name": "Cabo de Força Tripolar",
+    "description": "pontas redondas",
+    "serviceType": "mercadoria",
+    "brand": "TOLVIA",
+    "price": "20,00"
+  },
+  {
+    "id": 58,
+    "name": "Cabo de Força Tripolar",
+    "serviceType": "mercadoria",
+    "brand": "KAPBOM",
+    "price": "20,00"
+  },
+  {
+    "id": 59,
+    "name": "Cabo VGAxVGA",
+    "serviceType": "mercadoria",
+    "brand": "EXBOM",
+    "price": "25,00"
+  },
+  {
+    "id": 60,
+    "name": "Cabo HDMIxHDMI",
+    "serviceType": "mercadoria",
+    "price": "20,00"
+  },
+  {
+    "id": 61,
+    "name": "Kit Carregador e Bateria para controle de xbox 360",
+    "description": "bateria de 58.000mAh",
+    "serviceType": "mercadoria",
+    "price": "50,00"
+  },
+  {
+    "id": 62,
+    "name": "Fone com Microfone Gamer Kestrel",
+    "brand": "C3TECH",
+    "serviceType": "mercadoria",
+    "price": "230,00",
+    "cardPrice": "250,00"
+  },
+  {
+    "id": 63,
+    "name": "Fone para PS4/XBOX-ONE",
+    "brand": "LEHMOX",
+    "serviceType": "mercadoria",
+    "price": "80,00",
+    "cardPrice": "90,00"
+  },
+  {
+    "id": 64,
+    "name": "Suporte para Microfone",
+    "serviceType": "mercadoria",
+    "price": "45,00"
+  },
+  {
+    "id": 65,
+    "name": "Microfone Vocal KA-U161",
+    "brand": "KAPBOM",
+    "serviceType": "mercadoria",
+    "price": "80,00"
+  },
+  {
+    "id": 66,
+    "name": "Fone Wireless BM-104",
+    "brand": "B-MAX",
+    "serviceType": "mercadoria",
+    "price": "130,00",
+    "cardPrice": "150,00"
+  },
+  {
+    "id": 67,
+    "name": "Fone Gamer com Microfone KD-762",
+    "brand": "KAIDI",
+    "serviceType": "mercadoria",
+    "price": "120,00"
+  },
+  {
+    "id": 68,
+    "name": "Fone com Microfone",
+    "brand": "MULTILASER",
+    "serviceType": "mercadoria",
+    "price": "100,00",
+    "cardPrice": "110,00"
+  },
+  {
+    "id": 69,
+    "name": "Fone A-872",
+    "brand": "ALTOMEX",
+    "serviceType": "mercadoria",
+    "price": "69,90"
+  },
+  {
+    "id": 70,
+    "name": "Fone KT-301",
+    "brand": "SUPER BASS",
+    "serviceType": "mercadoria",
+    "price": "75,00",
+    "cardPrice": "80,00"
+  },
+  {
+    "id": 71,
+    "name": "Fone LEY-301",
+    "brand": "LEHMOX",
+    "serviceType": "mercadoria",
+    "price": "75,00",
+    "cardPrice": "80,00"
+  },
+  {
+    "id": 72,
+    "name": "Mouse Pad XC-MPD-06",
+    "description": "Com apoio em gel para o pulso",
+    "brand": "X-CELL",
+    "serviceType": "mercadoria",
+    "price": "60,00"
+  },
+  {
+    "id": 73,
+    "name": "Microfone KP-903",
+    "brand": "KNUP",
+    "serviceType": "mercadoria",
+    "price": "50,00"
+  },
+  {
+    "id": 74,
+    "name": "Microfone Gamer GT-GK2",
+    "brand": "LEHMOX",
+    "serviceType": "mercadoria",
+    "price": "150,00"
+  },
+  {
+    "id": 75,
+    "name": "Mouse sem Fio",
+    "brand": "KAPBOM",
+    "serviceType": "mercadoria",
+    "price": "60,00"
+  },
+  {
+    "id": 76,
+    "name": "Teclado Padrão",
+    "brand": "B-MAX",
+    "serviceType": "mercadoria",
+    "price": "50,00"
+  },
+  {
+    "id": 77,
+    "name": "Teclado Membrana",
+    "brand": "LEHMOX",
+    "serviceType": "mercadoria",
+    "price": "150,00"
+  },
+  {
+    "id": 78,
+    "name": "Mouse Pad Gamer MOMENTUM",
+    "description": "Com iluminação e carregador wireless",
+    "brand": "PHILIPS",
+    "serviceType": "mercadoria",
+    "price": ""
+  },
+  {
+    "id": 79,
+    "name": "Mouse Pad Básico",
+    "brand": "EXBOM",
+    "serviceType": "mercadoria",
+    "price": "20,00"
+  },
+  {
+    "id": 80,
+    "name": "Controle Game ALTO-6560W",
+    "brand": "ALTOMEX",
+    "serviceType": "mercadoria",
+    "price": "170,00"
+  },
+  {
+    "id": 81,
+    "name": "Controle com Fio para Xbox 360",
+    "serviceType": "mercadoria",
+    "price": "120,00"
+  },
+  {
+    "id": 82,
+    "name": "Controle Xbox One",
+    "description": "Cabo de 3m",
+    "serviceType": "mercadoria",
+    "price": "230,00",
+    "cardPrice": "250,00"
+  },
+  {
+    "id": 83,
+    "name": "Controle sem Fio para Playstation 3",
+    "serviceType": "mercadoria",
+    "price": "90,00"
+  },
+  {
+    "id": 84,
+    "name": "Controle Game para Computador",
+    "serviceType": "mercadoria",
+    "price": "50,00"
+  },
+  {
+    "id": 85,
+    "name": "Régua B05 com 5 tomadas + 2 USB",
+    "brand": "XZ",
+    "serviceType": "mercadoria",
+    "price": "80,00"
+  },
+  {
+    "id": 86,
+    "name": "Régua Protetor Eletrônico com 6 tomadas",
+    "brand": "Canaã",
+    "serviceType": "mercadoria",
+    "price": "35,00"
+  },
+  {
+    "id": 87,
+    "name": "Cabo Adaptador 3RCA x P2 para Xbox 360",
+    "brand": "7&7",
+    "price": "50,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 88,
+    "name": "Cabo Adaptador 3RCA x HDMI para Play Station 1 e 2",
+    "brand": "Verde",
+    "price": "25,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 89,
+    "name": "Cabo HDMI x HDMI 4k",
+    "brand": "AOWEIXUN OR VESION",
+    "price": "30,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 90,
+    "name": "Cabo USB x V3 WIN-TY",
+    "price": "25,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 91,
+    "name": "Antena Digital HDTV",
+    "brand": "Tomate",
+    "price": "40,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 92,
+    "name": "Antena Interna Digital",
+    "brand": "Tomate",
+    "price": "30,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 93,
+    "name": "Fita Métrica 5m",
+    "brand": "Barcelona",
+    "price": "25,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 94,
+    "name": "Fita Métrica 7.5m",
+    "brand": "Barcelona",
+    "price": "30,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 95,
+    "name": "Carregador Portátil Universal MY-120W",
+    "price": "80,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 96,
+    "name": "Suporte Fixo de TV para Parede",
+    "brand": "XTRAD",
+    "price": "39,90",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 97,
+    "name": "Alicate de Compressão",
+    "brand": "B-MAX",
+    "price": "54,90",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 98,
+    "name": "Conversor de VGA + Áudio para HDMI",
+    "price": "60,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 99,
+    "name": "Conversor de HDMI para 3RCA (AV)",
+    "price": "60,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 100,
+    "name": "Conversor de HDMI para VGA + Áudio",
+    "price": "60,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 101,
+    "name": "Conversor de 3RCA (AV) para HDMI",
+    "price": "60,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 102,
+    "name": "Kit Limpa Telas",
+    "description": "Spray 150ml + Pano",
+    "brand": "XNAMAI",
+    "price": "45,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 103,
+    "name": "Plug Extensor 2m com 3 tomadas",
+    "brand": "Eletro G3",
+    "price": "25,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 104,
+    "name": "Plug Extensor 3m com 3 tomadas",
+    "brand": "Eletro G3",
+    "price": "30,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 105,
+    "name": "Plug Extensor 5m com 3 tomadas",
+    "brand": "Eletro G3",
+    "price": "35,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 106,
+    "name": "Plug Extensor 10m com 3 tomadas",
+    "brand": "Eletro G3",
+    "price": "45,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 107,
+    "name": "Plug Adaptador para 4 Tomadas",
+    "brand": "LUATEK",
+    "price": "35,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 108,
+    "name": "Desbloquear celular android sem conta",
+    "description": "A pessoa não sabe a conta google",
+    "price": "chamar o Batata",
+    "serviceType": "serviço"
+  },
+  {
+    "id": 109,
+    "name": "Desbloquear celular android com conta",
+    "description": "A pessoa sabe a conta google",
+    "price": "30,00",
+    "serviceType": "mercadoria"
+  },
+  {
+    "id": 110,
+    "name": "Seguro Desemprego",
+    "price": "30,00",
+    "serviceType": "serviço"
+  },
+  {
+    "id": 111,
+    "name": "Agendamento Poupatempo",
+    "price": "20,00",
+    "serviceType": "serviço"
+  }
+]

@@ -249,14 +249,6 @@
     "price": "39,90"
   },
   {
-    "id": 35,
-    "name": "Carregador USB-C",
-    "description": "20W",
-    "serviceType": "mercadoria",
-    "brand": "apple",
-    "price": "100,00"
-  },
-  {
     "id": 36,
     "name": "Monitor",
     "description": "tela de 21 polegadas",

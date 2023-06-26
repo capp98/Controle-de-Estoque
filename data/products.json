@@ -806,35 +806,40 @@
     "name": "Plug Extensor 2m com 3 tomadas",
     "brand": "Eletro G3",
     "price": "25,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZCA5amdrOspbP2zdcFfesqs4nIG5nBDV3JEekcxGCQepiV1FVYghYDzONqoyOU8rERA&usqp=CAU"
   },
   {
     "id": 104,
     "name": "Plug Extensor 3m com 3 tomadas",
     "brand": "Eletro G3",
     "price": "30,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZCA5amdrOspbP2zdcFfesqs4nIG5nBDV3JEekcxGCQepiV1FVYghYDzONqoyOU8rERA&usqp=CAU"
   },
   {
     "id": 105,
     "name": "Plug Extensor 5m com 3 tomadas",
     "brand": "Eletro G3",
     "price": "35,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZCA5amdrOspbP2zdcFfesqs4nIG5nBDV3JEekcxGCQepiV1FVYghYDzONqoyOU8rERA&usqp=CAU"
   },
   {
     "id": 106,
     "name": "Plug Extensor 10m com 3 tomadas",
     "brand": "Eletro G3",
     "price": "45,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZCA5amdrOspbP2zdcFfesqs4nIG5nBDV3JEekcxGCQepiV1FVYghYDzONqoyOU8rERA&usqp=CAU"
   },
   {
     "id": 107,
-    "name": "Plug Adaptador para 4 Tomadas",
+    "name": "Plug Adaptador para 4 Tomadas SL6012",
     "brand": "LUATEK",
     "price": "35,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://mbtech.com.br/wordpress/wp-content/uploads/2021/09/SL6012.jpg"
   },
   {
     "id": 108,

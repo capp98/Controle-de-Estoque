@@ -69,7 +69,8 @@
     "description": "velocidade até 100mb/s",
     "serviceType": "mercadoria",
     "brand": "sandisk",
-    "price": "80,00"
+    "price": "80,00",
+    "imageURL": "https://m.media-amazon.com/images/I/71GIcfaFD5L._AC_SY450_.jpg"
   },
   {
     "id": 10,
@@ -77,39 +78,45 @@
     "description": "velocidade até 100mb/s",
     "serviceType": "mercadoria",
     "brand": "sandisk",
-    "price": "130,00"
+    "price": "130,00",
+    "imageURL": "https://a-static.mlcdn.com.br/800x560/cartao-de-memoria-128gb-micro-sd-ultra-100mbs-sandisk-cartao-de-memoria-sandisk/comprounanet2/16054459829/83f0d041b15f8569f2c96c7b55c7412a.jpeg"
   },
   {
     "id": 11,
     "name": "micro sd 16 gb + adaptador usb",
     "serviceType": "mercadoria",
-    "brand": "sandisk",
+    "brand": "MULTILASER",
     "price": "55,00",
-    "cardPrice": "60,00"
+    "cardPrice": "60,00",
+    "imageURL": "https://m.media-amazon.com/images/I/51wSljjzGVL.jpg"
   },
   {
     "id": 12,
     "name": "kit adaptador para chip com chave removedora de bandeja",
     "serviceType": "mercadoria",
-    "price": "10,00"
+    "price": "10,00",
+    "imageURL": "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lfvy4evbr6tifa"
   },
   {
     "id": 13,
     "name": "Receptor Bluetooth usb + cabo p2 3.5mm",
     "serviceType": "mercadoria",
-    "price": "40,00"
+    "price": "40,00",
+    "imageURL": "https://cdn.awsli.com.br/600x450/1980/1980889/produto/108113975/6bf53aec1d.jpg"
   },
   {
     "id": 14,
     "name": "Receptor Bluetooth usb",
     "serviceType": "mercadoria",
-    "price": "40,00"
+    "price": "40,00",
+    "imageURL": "https://down-br.img.susercontent.com/file/b87733ca68688e18c7a0db6ce0b561a1"
   },
   {
     "id": 15,
     "name": "Placa Adaptador De Som Usb 7.1 Canais 3d Adaptador Audio Pc",
     "serviceType": "mercadoria",
-    "price": "45,00"
+    "price": "45,00",
+    "imageURL": "https://img.kalunga.com.br/fotosdeprodutos/162321d.jpg"
   },
   {
     "id": 16,
@@ -136,93 +143,105 @@
     "id": 19,
     "name": "Adaptador Receptor Bluetooth Dongle Usb",
     "serviceType": "mercadoria",
-    "price": "20,00"
+    "price": "20,00",
+    "imageURL": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRehWDWPkl0Z0v4APefgZlu6MXP2LKTwrLVHjUrtXDekTFhOIUVUu3iwWEzBsC_yzXrY_W2UVj7oVnKg6nGCBsg-NZSWXGAZKvHd6kbMIpLTG1ZL7oN6oO7NLHtw9RpgsSsZg&usqp=CAc"
   },
   {
     "id": 20,
     "name": "Adaptador de rede USB RJ45",
     "serviceType": "mercadoria",
-    "price": "40,00"
+    "price": "40,00",
+    "imageURL": "https://www.lognetinfo.com.br/imagens/250x250/14950A.jpg"
   },
   {
     "id": 21,
     "name": "Antena Receptor USB Wi-fi Wireless",
     "serviceType": "mercadoria",
-    "price": "50,00"
+    "price": "50,00",
+    "imageURL": "https://plus.diolinux.com.br/uploads/default/original/3X/e/f/ef651866349b72d083235904f08c8cee00ce6a30.jpeg"
   },
   {
     "id": 22,
     "name": "Adaptador Wireless Usb Wi-fi",
     "serviceType": "mercadoria",
-    "price": "40,00"
+    "price": "40,00",
+    "imageURL": "https://http2.mlstatic.com/D_NQ_NP_997544-MLB54124767828_032023-O.webp"
   },
   {
     "id": 23,
     "name": "Adaptador bluetooth 5.0",
     "serviceType": "mercadoria",
-    "price": "29,90"
+    "price": "29,90",
+    "imageURL": "https://http2.mlstatic.com/D_NQ_NP_709804-MLB51603998498_092022-O.webp"
   },
   {
     "id": 24,
     "name": "Adaptador Usb Bluetooth 5.0 CSR",
     "serviceType": "mercadoria",
-    "price": "50,00"
+    "price": "50,00",
+    "imageURL": "https://a-static.mlcdn.com.br/800x560/adaptador-usb-bluetooth-5-0-csr/ezshop/54ade098b7ce11edb3854201ac185019/c3e2a35afd87739370775ed0e52cd8b9.jpeg"
   },
   {
     "id": 25,
-    "name": "Fonte Carregador 2 USB",
+    "name": "Fonte Carregador 2 USB KD-301",
     "description": "2.4A / 12W",
     "serviceType": "mercadoria",
     "brand": "kaidi",
-    "price": "40,00"
+    "price": "40,00",
+    "imageURL": "https://a-static.mlcdn.com.br/800x560/carregador-rapido-lightning-kaidi-kd301a-2-saidas-usb-2-4a/conexaoservicos/a6313360d69d11ec9cde4201ac185078/6e801947d90cdc1c0495cf579c383e56.jpeg"
   },
   {
     "id": 26,
-    "name": "Fonte Carregador Turbo 1 USB",
-    "description": "2.1A",
+    "name": "Fonte Carregador Turbo Y02-7",
+    "description": "2.1A | 1 USB",
     "serviceType": "mercadoria",
     "brand": "hmaston",
-    "price": "20,00"
+    "price": "20,00",
+    "imageURL": "https://photos.enjoei.com.br/public/240x240/czM6Ly9waG90b3MuZW5qb2VpLmNvbS5ici9wcm9kdWN0cy8yODY3MDk2Ny83MjViMTRlNmM2NGI1Y2QwZDhkMmE1Zjc1ODA4ZGU4NC5qcGc"
   },
   {
     "id": 27,
-    "name": "Fonte Carregador 2 USB",
-    "description": "4.1A / 20w",
+    "name": "Fonte Carregador TURBO Y25-4",
+    "description": "4.1A | 20w | 2 USB",
     "serviceType": "mercadoria",
     "brand": "hmaston",
     "price": "30,00"
   },
   {
     "id": 28,
-    "name": "Fonte Carregador Turbo 1 USB",
-    "description": "2.1A / 30w",
+    "name": "Fonte Carregador Turbo LE-342 FUNTE",
+    "description": "2.1A | 30w | 1 USB",
     "serviceType": "mercadoria",
     "brand": "lehmox",
-    "price": "30,00"
+    "price": "30,00",
+    "imageURL": "https://cdn.dooca.store/100456/products/7cf90cd755bde30c1c13e807f9c8bdc7.jpg?v=1671734180"
   },
   {
     "id": 29,
-    "name": "Carregador Veicular com 2 Entradas USB + Cabo V8",
-    "description": "3.4A / 17W",
+    "name": "Carregador Veicular KD-303S",
+    "description": "3.4A | 17W | 2 Entradas USB + 1 Cabo V8",
     "serviceType": "mercadoria",
     "brand": "kaidi",
-    "price": "40,00"
+    "price": "40,00",
+    "imageURL": "https://a-static.mlcdn.com.br/800x560/carregador-veicular-kaidi-kd-303s-turbo-duplo-usb-3-4a-cabo-micro-v8-online/ferraritech/kd-303s/e806179702389aef98533d26258f5c87.jpeg"
   },
   {
     "id": 30,
-    "name": "Carregador Veicular com 2 Entradas USB",
-    "description": "3.4A / 17W",
+    "name": "Carregador Veicular",
+    "description": "3.4A | 17W ",
     "serviceType": "mercadoria",
     "brand": "hmaston",
-    "price": "35,00"
+    "price": "35,00",
+    "imageURL": ""
   },
   {
     "id": 31,
-    "name": "Carregador Veicular com 2 Entradas USB + Cabo iPhone",
-    "description": "3.4A / 17W",
+    "name": "Carregador Veicular KD-303A",
+    "description": "3.4A | 17W | 2 Entradas USB + 1 Cabo iPhone",
     "serviceType": "mercadoria",
     "brand": "kaidi",
-    "price": "40,00"
+    "price": "40,00",
+    "imageURL": "https://d2r9epyceweg5n.cloudfront.net/stores/988/790/products/whatsapp-image-2022-01-08-at-13-24-491-98ca5bd05fcf3ab28216416591217159-1024-1024.webp"
   },
   {
     "id": 32,
@@ -230,7 +249,8 @@
     "description": "20W",
     "serviceType": "mercadoria",
     "brand": "apple",
-    "price": "100,00"
+    "price": "100,00",
+    "imageURL": "https://http2.mlstatic.com/D_NQ_NP_882539-MLB69568026788_052023-O.webp"
   },
   {
     "id": 33,
@@ -238,15 +258,17 @@
     "description": "5W",
     "serviceType": "mercadoria",
     "brand": "apple",
-    "price": "40,00"
+    "price": "40,00",
+    "imageURL": "https://down-br.img.susercontent.com/file/a9a3f622f35c1e691d73e677e307f333"
   },
   {
     "id": 34,
-    "name": "Carregador Veicular com 1 Entrada USB e 1 serviceType c",
-    "description": "usb - 1.5A / c - 1.67A",
+    "name": "Carregador Veicular PEI-C01",
+    "description": "1 Entrada USB (1.5A) e 1 tipo-C (1.67A)",
     "serviceType": "mercadoria",
     "brand": "peining",
-    "price": "39,90"
+    "price": "39,90",
+    "imageURL": "https://cdn.smartpos.app/product/17888836?lastUpdate=2023-03-16T20:21:50.598Z"
   },
   {
     "id": 36,

@@ -711,57 +711,65 @@
   },
   {
     "id": 91,
-    "name": "Antena Digital HDTV",
+    "name": "Antena Digital HDTV MT-3011",
     "brand": "Tomate",
     "price": "40,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://http2.mlstatic.com/D_NQ_NP_735670-MLB52445035080_112022-O.webp"
   },
   {
     "id": 92,
-    "name": "Antena Interna Digital",
+    "name": "Antena Interna Digital MT-3015",
     "brand": "Tomate",
     "price": "30,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://http2.mlstatic.com/D_NQ_NP_734746-MLB50711945659_072022-O.webp"
   },
   {
     "id": 93,
     "name": "Fita Métrica 5m",
     "brand": "Barcelona",
     "price": "25,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://imgs.ponto.com.br/1501121045/1xg.jpg?imwidth=500"
   },
   {
     "id": 94,
     "name": "Fita Métrica 7.5m",
     "brand": "Barcelona",
     "price": "30,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://a-static.mlcdn.com.br/450x450/trena-emborrachada-75-mt-com-ima-na-ponta-barcelona/bigestoque2/685020243/662b26292b77ef20979024916e17bc71.jpg"
   },
   {
     "id": 95,
     "name": "Carregador Portátil Universal MY-120W",
     "price": "80,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://images.tcdn.com.br/img/img_prod/893885/fonte_universal_para_notebook_120w_esferium_my_120w_735_2_ab41c6f55d83b4765d1ec170479b1e46.jpg"
   },
   {
     "id": 96,
     "name": "Suporte Fixo de TV para Parede",
     "brand": "XTRAD",
     "price": "39,90",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://images.tcdn.com.br/img/img_prod/1065671/suporte_tv_parede_universal_fixo_para_lcd_led_xtrad_xt_800_567_1_bf32d932eb02365648ce273010861808.jpg"
   },
   {
     "id": 97,
     "name": "Alicate de Compressão",
     "brand": "B-MAX",
     "price": "54,90",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://cf.shopee.com.br/file/br-11134103-23010-kyjjt2hpu7lvfc"
   },
   {
     "id": 98,
     "name": "Conversor de VGA + Áudio para HDMI",
     "price": "60,00",
-    "serviceType": "mercadoria"
+    "serviceType": "mercadoria",
+    "imageURL": "https://http2.mlstatic.com/D_NQ_NP_662505-MLB54951015817_042023-O.webp"
   },
   {
     "id": 99,

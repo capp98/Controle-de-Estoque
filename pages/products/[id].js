@@ -43,9 +43,7 @@ const ProductDetail = () => {
 
   const handleDelete = async () => {
     try {
-      console.log('estou deletando essa budega ' + id);
-
-      const response = await fetch(`/api/products`, {
+      const response = await fetch(`/api/product/delete/${id}`, {
         method: 'DELETE',
       });
       if (!response.ok) {

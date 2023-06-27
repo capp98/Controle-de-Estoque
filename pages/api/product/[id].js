@@ -30,7 +30,6 @@ export default function handler(req, res) {
         res.status(404).json({ success: false, message: 'Product not found' });
       }
       break;
-
     default:
       try {
         res.status(200).json(productsData[productIndex]);

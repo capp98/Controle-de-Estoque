@@ -11,11 +11,13 @@ export default function ProductPage() {
   useEffect(() => {
     async function fetchProducts() {
       try {
-        const response = await fetch('/api/read');
+        const response = await fetch('/api/products', {
+          method: 'GET',
+        });
         const data = await response.json();
         setProducts(data);
       } catch (error) {
-        console.error('Erro ao buscar os produtos:', error);
+        console.error('Ocorreu um erro ao buscar os produtos:', error);
       }
     }
 
@@ -61,20 +63,6 @@ export default function ProductPage() {
           </tr>
         </thead>
         <tbody>
-          {/* {products.map((product) => (
-            <tr className={product.name} key={product.id}>
-              <td>
-                <button onClick={() => handleProductClick(product.id)}>
-                  Ver Detalhes
-                </button>
-              </td>
-              <td>{product.name}</td>
-              <td>{product.brand}</td>
-              <td>{product.price}</td>
-              <td>{product.cardPrice}</td>
-              <td>{product.description}</td>
-            </tr>
-          ))} */}
           {/* Renderização dos produtos filtrados */}
           {filteredProducts.map((product) => (
             <tr key={product.id}>

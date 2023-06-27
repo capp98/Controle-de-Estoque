@@ -5,10 +5,12 @@ import styles from '../styles/ProductAdd.module.css';
 const ProductAdd = () => {
   const [product, setProduct] = useState({
     name: '',
+    serviceType: '',
     brand: '',
     price: '',
     cardPrice: '',
     description: '',
+    imageURL: '',
   });
 
   const router = useRouter();
@@ -52,6 +54,16 @@ const ProductAdd = () => {
           />
         </div>
         <div className={styles.formGroup}>
+          <label className={styles.label}>Tipo de serviço:</label>
+          <input
+            type="text"
+            name="serviceType"
+            value={product.serviceType}
+            onChange={handleChange}
+            className={styles.inputField}
+          />
+        </div>
+        <div className={styles.formGroup}>
           <label className={styles.label}>Marca:</label>
           <input
             type="text"
@@ -89,6 +101,16 @@ const ProductAdd = () => {
             onChange={handleChange}
             className={styles.textArea}
           ></textarea>
+        </div>
+        <div className={styles.formGroup}>
+          <label className={styles.label}>URL da imagem:</label>
+          <input
+            type="text"
+            name="imageURL"
+            value={product.imageURL}
+            onChange={handleChange}
+            className={styles.inputField}
+          />
         </div>
         <div className={styles.buttonContainer}>
           <button type="submit" className={styles.addButton}>

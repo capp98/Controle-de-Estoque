@@ -24,7 +24,7 @@ export default function handler(req, res) {
       break;
 
     case 'POST':
-      const { name, brand, price } = req.body;
+      const { name, serviceType, brand, price, cardPrice, imageURL } = req.body;
       const newProduct = {
         id: Date.now().toString(),
         name,

@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/router';
 import styles from '../styles/ProductRead.module.css';
+import Link from 'next/link';
 
 export default function ProductPage() {
   const [products, setProducts] = useState([]);
@@ -47,6 +48,7 @@ export default function ProductPage() {
         onChange={handleFilterChange}
         placeholder="Filtrar por nome"
       />
+      <Link href="/productAdd">Adicionar</Link>
       <table className={styles.table}>
         <thead>
           <tr>

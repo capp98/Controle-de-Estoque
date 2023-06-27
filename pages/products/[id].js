@@ -17,7 +17,6 @@ const ProductDetail = () => {
       try {
         const response = await fetch(`/api/product/${id}`);
         const data = await response.json();
-        console.log(data)
         setProduct(data);
         setEditedProduct(data);
       } catch (error) {
@@ -40,6 +39,22 @@ const ProductDetail = () => {
 
   const handleEditButtonClick = () => {
     setIsEditable(true);
+  };
+
+  const handleDelete = async () => {
+    try {
+      console.log('estou deletando essa budega ' + id);
+
+      const response = await fetch(`/api/products`, {
+        method: 'DELETE',
+      });
+      if (!response.ok) {
+        throw new Error('Falha ao excluir o produto');
+      }
+      router.push('/'); // Redirecionar para a página de listagem de produtos
+    } catch (error) {
+      console.error(error);
+    }
   };
 
   const handleSave = async () => {
@@ -186,6 +201,9 @@ const ProductDetail = () => {
             Edit
           </button>
         )}
+      </div>
+      <div className={styles.buttonContainer}>
+        <button onClick={handleDelete}>Excluir</button>
       </div>
       <Link href="/" className={styles.buttonContainer}>
         <button>Voltar</button>

@@ -22,6 +22,7 @@ export default function handler(req, res) {
     case 'GET':
       const products = getProducts();
       res.status(200).json(products);
+
       break;
 
     case 'POST':
@@ -58,9 +59,37 @@ export default function handler(req, res) {
 
       break;
 
+    case 'DELETE':
+      // Lógica para excluir um produto
+      console.log('estou no DELETE ');
+      const { id } = req.query;
+
+      // Carrega os dados do arquivo JSON
+      const productsData = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+
+      // Encontre o índice do produto no array de produtos
+      const productIndex = productsData.findIndex(
+        (product) => product.id === id
+      );
+
+      // Verifique se o produto foi encontrado
+      if (productIndex !== -1) {
+        // Remova o produto do array de produtos
+        productsData.splice(productIndex, 1);
+
+        // Salve os dados atualizados de volta no arquivo JSON
+        fs.writeFileSync(filePath, JSON.stringify(productsData, null, 2));
+
+        res.status(200).json({ message: 'Produto excluído com sucesso.' });
+      } else {
+        res.status(404).json({ message: 'Produto não encontrado.' });
+      }
+
+      break;
     default:
-      res.setHeader('Allow', ['GET', 'POST', 'PUT']);
+      res.setHeader('Allow', ['GET', 'POST', 'PUT', 'DELETE']);
       res.status(405).end(`Method ${method} Not Allowed`);
+
       break;
   }
 }

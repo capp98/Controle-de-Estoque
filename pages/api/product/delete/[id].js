@@ -13,8 +13,7 @@ export default function handler(req, res) {
     const products = JSON.parse(productsData);
 
     // Verificar se o produto existe
-    const index = products.findIndex((product) => product.id === Number(id));
-    console.log(index);
+    const index = products.findIndex((product) => product.id == id);
     if (index === -1) {
       return res.status(404).json({ message: 'Produto não encontrado' });
     }

@@ -50,7 +50,7 @@ export default function ProductPage() {
         onChange={handleFilterChange}
         placeholder="Filtrar por nome"
       />
-      <Link href="/productAdd">Adicionar</Link>
+      <Link className={styles.buttonAdd} href="/productAdd">Adicionar</Link>
       <table className={styles.table}>
         <thead>
           <tr>

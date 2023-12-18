@@ -11,6 +11,14 @@
   transition: background-color 0.3s ease;
   width: 300px;
   max-width: 100%;
+  margin: 0 20px 20px 0;
+}
+
+.buttonAdd {
+  background-color: #33334f;
+  color: #fff;
+  border-radius: 4px;
+  padding: 8px;
 }
 
 .inputField:focus {

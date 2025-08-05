@@ -1,3 +1,5 @@
 # Controle de Estoque
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nextjs-ibj94r)
+Projeto inacabado desenvolvido para reforçar noções sobre o sistema CRUD em desenvolvimento web utilizando o framework NextJS
+
+[Controle de Estoque](https://capp98-tabela-precos.netlify.app)
